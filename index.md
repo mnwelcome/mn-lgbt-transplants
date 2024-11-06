@@ -1,4 +1,4 @@
-![Pride Flag](pride-flag.jpg)
+<img src="pride-flag.jpg" alt="Pride Flag" width="50%" />
 
 # Minnesota LGBT Transplant Resource Hub
 
