@@ -1,4 +1,4 @@
-# Welcome to the Minnesota LGBT Resource Hub
+# We're Glad You're Here
 
 Explore our resources to help you settle into Minnesota’s LGBT-friendly community!
 
