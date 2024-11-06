@@ -2,7 +2,7 @@
 
 ---
 
-# Employment and Legal Resources
+# Why Minnesota?
 
 ## Job Boards
 - **Twin Cities LGBT Chamber of Commerce**: Job listings for LGBT-friendly businesses.
