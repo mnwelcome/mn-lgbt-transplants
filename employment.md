@@ -1,3 +1,7 @@
+[Home](/) | [Housing and Shelter](/housing) | [Healthcare](/healthcare) | [Employment and Legal Resources](/employment)
+
+---
+
 # Employment and Legal Resources
 
 ## Job Boards
