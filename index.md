@@ -1,4 +1,6 @@
-# We're Glad You're Here
+![Pride Flag](pride-flag.jpg)
+
+# Minnesota LGBT Transplant Resource Hub
 
 Explore our resources to help you settle into Minnesota’s LGBT-friendly community!
 
