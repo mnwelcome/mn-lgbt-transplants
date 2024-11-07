@@ -19,5 +19,7 @@ To suggest a resource to add to this page please fill out the form at the bottom
 
 ## Reddit Threads
 - [New to MN from FL. Looking for LGBT friendly resources](https://www.reddit.com/r/TwinCities/comments/14lk4qq/new_to_mn_from_fl_looking_for_lgbt_friendly/)
+- [LGBT refuge here. What is there to do in the Twin Cities for pride month?](https://www.reddit.com/r/TwinCities/comments/13mucji/lgbt_refuge_here_what_is_there_to_do_in_the_twin/)
+- [LGBT in Minneapolis?](https://www.reddit.com/r/Minneapolis/comments/cv8yg1/lgbt_in_minneapolis/)
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScrVFZSEXUkSACEA7YFOJg34u8SyL-BjKZ8TjjIhQXBXEaDfQ/viewform?usp=sf_link" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
