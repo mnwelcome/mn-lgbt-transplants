@@ -6,7 +6,7 @@
 - 
 
 ## Support Groups
-- [Queer in Como] (https://www.facebook.com/share/g/1XUauRus1n/)
+- [Queer in Como](https://www.facebook.com/share/g/1XUauRus1n/)
 - [Minnesota LGBTQ Activist Network](https://www.facebook.com/share/g/1XzHrEbDre/)
 - [MN Queer Crafting](https://www.facebook.com/share/g/15bJX57WHH/)
 - [Twin Cities Bi+ Friends](https://www.facebook.com/share/g/15cJqdcmQk/)
