@@ -1,3 +1,8 @@
 title: Minnesota LGBT Transplant Resource Hub
 description: A guide and resource hub for LGBT individuals relocating to or considering relocating to Minnesota.
 theme: jekyll-theme-cayman
+
+# Custom CSS file to hide "View on GitHub" button
+markdown: kramdown
+plugins:
+  - jekyll-remote-theme
