@@ -1,4 +1,4 @@
-[Home](/) | [Why Minnesota](/why) | [Resources](/resources) | [Testimonials](/testimonials) | [Volunteer](/volunteer)
+[Home](/index.md) | [Why Minnesota](/why.md) | [Resources](/resources.md) | [Testimonials](/testimonials.md) | [Volunteer](/volunteer.md)
 
 ---
 
