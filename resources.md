@@ -7,6 +7,7 @@ To suggest a resource to add to this page please fill out the form at the bottom
 ## Local Organizations
 - Local resources from [NAMI](https://namimn.org/education-and-public-awareness/nami-resources-lgbtq-community/)
 - Resources from [Twin Cities Pride ](https://tcpride.org/community-resources/)
+  - Includes health, support and social groups, youth, and housing services.  
 
 ## Databases
 - [Help me Connect](https://helpmeconnect.web.health.state.mn.us/HelpMeConnect/) A navigator connecting expectant families, families with young children (birth – 8 years old) and those working with families to services in their local communities that support healthy child development and family well-being
