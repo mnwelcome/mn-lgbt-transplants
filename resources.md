@@ -17,4 +17,7 @@ To suggest a resource to add to this page please fill out the form at the bottom
 - [TC 30+ Queer Book Club](https://www.facebook.com/share/g/1Q4SMwMQXn/)
 - [Grrrl Scout](grrrlscout.com)
 
+## Reddit Threads
+- [New to MN from FL. Looking for LGBT friendly resources](https://www.reddit.com/r/TwinCities/comments/14lk4qq/new_to_mn_from_fl_looking_for_lgbt_friendly/)
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScrVFZSEXUkSACEA7YFOJg34u8SyL-BjKZ8TjjIhQXBXEaDfQ/viewform?usp=sf_link" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
