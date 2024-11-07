@@ -8,7 +8,7 @@ Minnesota has a reputation for being progressive, inclusive, and supportive of L
 
 ## A Progressive Voting History
 
-- **Consistently Democratic**: Minnesota has voted against Trump in the 2016, 2020, and 2024 presidential elections and holds the longest running streak of voting Democratic, having voted blue in every presidential election since 1972.
+- **Consistently Democratic**: Minnesota voted against Trump in the 2016, 2020, and 2024 presidential elections and holds the longest running streak of voting Democratic, having voted blue in every presidential election since 1972.
 
 ## Strong Support for LGBT Rights
 
