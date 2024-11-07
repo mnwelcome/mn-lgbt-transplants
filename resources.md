@@ -9,9 +9,9 @@ To suggest a resource to add to this page please fill out the form at the bottom
 - Resources from [Twin Cities Pride ](https://tcpride.org/community-resources/)
 
 ## Databases
--[Help me Connect](https://helpmeconnect.web.health.state.mn.us/HelpMeConnect/)
+- [Help me Connect](https://helpmeconnect.web.health.state.mn.us/HelpMeConnect/)
   - A navigator connecting expectant families, families with young children (birth – 8 years old) and those working with families to services in their local communities that support healthy child development and family well-being
--[MinnesotaHelp](https://www.minnesotahelp.info/)
+- [MinnesotaHelp](https://www.minnesotahelp.info/)
   -Search here for services that help older Minnesotans and people with disabilities. Can be filtered to LGBT friendly
 
 ## Social Groups
