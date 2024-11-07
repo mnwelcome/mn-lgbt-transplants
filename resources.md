@@ -14,12 +14,12 @@ To suggest a resource to add to this page please fill out the form at the bottom
 - [MinnesotaHelp](https://www.minnesotahelp.info/) Search for services that help older Minnesotans and people with disabilities. Can be filtered to LGBT friendly
 
 ## Social Groups
-- [Queer in Como](https://www.facebook.com/share/g/1XUauRus1n/)
+- [Grrrl Scout](grrrlscout.com)
 - [Minnesota LGBTQ Activist Network](https://www.facebook.com/share/g/1XzHrEbDre/)
 - [MN Queer Crafting](https://www.facebook.com/share/g/15bJX57WHH/)
-- [Twin Cities Bi+ Friends](https://www.facebook.com/share/g/15cJqdcmQk/)
+- [Queer in Como](https://www.facebook.com/share/g/1XUauRus1n/)
 - [TC 30+ Queer Book Club](https://www.facebook.com/share/g/1Q4SMwMQXn/)
-- [Grrrl Scout](grrrlscout.com)
+- [Twin Cities Bi+ Friends](https://www.facebook.com/share/g/15cJqdcmQk/)
 
 ## Reddit Threads
 - [New to MN from FL. Looking for LGBT friendly resources](https://www.reddit.com/r/TwinCities/comments/14lk4qq/new_to_mn_from_fl_looking_for_lgbt_friendly/)
