@@ -5,7 +5,7 @@
 - Resources from [Twin Cities Pride ](https://tcpride.org/community-resources/)
 - 
 
-## Support Groups
+## Social Groups
 - [Queer in Como](https://www.facebook.com/share/g/1XUauRus1n/)
 - [Minnesota LGBTQ Activist Network](https://www.facebook.com/share/g/1XzHrEbDre/)
 - [MN Queer Crafting](https://www.facebook.com/share/g/15bJX57WHH/)
