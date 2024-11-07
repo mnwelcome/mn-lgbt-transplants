@@ -21,15 +21,15 @@ Minnesota has a reputation for being progressive, inclusive, and supportive of L
 ## Recent Progressive Legislation
 
 Governor Tim Walz has passed several key progressive bills in recent years. (And he will be continuing his term as governor!):
-- **Protection for Abortion Rights**
-- **12 Weeks of Paid Family and Medical Leave**
-- **Legalization of Marijuana**
-- **Free Public College Tuition** for low- and middle-income families
-- **New Child Tax Credit**
-- **Free School Meals** for public school students
-- **Driver’s Licenses for All** residents, regardless of immigration status
-- **Unionization Support** with stronger protections for workers
-- **Clean Energy Goals**: Aiming for 100% carbon-free energy by 2040
+- Protection for Abortion Rights
+- 12 Weeks of Paid Family and Medical Leave
+- Legalization of Marijuana
+- Free Public College Tuition for low- and middle-income families
+- New Child Tax Credit
+- Free School Meals for public school students
+- Driver’s Licenses for All residents, regardless of immigration status
+- Unionization Support with stronger protections for workers
+- Clean Energy Goals: Aiming for 100% carbon-free energy by 2040
 
 ## High Quality of Life
 
