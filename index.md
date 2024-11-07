@@ -9,3 +9,4 @@ Explore resources to help you settle into Minnesota’s LGBT-friendly community!
 - [Testimonials](testimonials.md)
 - [Volunteer](volunteer.md)
 
+<link rel="stylesheet" href="/assets/custom.css">
