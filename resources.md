@@ -1,7 +1,7 @@
 # Community and Support Resources
 
 To suggest a resource to add to this page please fill out the form below.
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScrVFZSEXUkSACEA7YFOJg34u8SyL-BjKZ8TjjIhQXBXEaDfQ/viewform?embedded=true" width="640" height="677" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="[YOUR_GOOGLE_FORM_URL](https://docs.google.com/forms/d/e/1FAIpQLScrVFZSEXUkSACEA7YFOJg34u8SyL-BjKZ8TjjIhQXBXEaDfQ/viewform?usp=sf_link)" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## Local Organizations
 - Local resources from [NAMI](https://namimn.org/education-and-public-awareness/nami-resources-lgbtq-community/)
