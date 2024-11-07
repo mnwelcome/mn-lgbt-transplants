@@ -1,4 +1,4 @@
-[Home](/) | [Housing and Shelter](/housing) | [Healthcare](/healthcare) | [Employment and Legal Resources](/employment)
+[Home](/) | [Why Minnesota](/why) | [Resources](/resources) | [Testimonials](/testimonials) | [Volunteer](/volunteer)
 
 ---
 
