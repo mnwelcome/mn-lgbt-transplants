@@ -10,10 +10,10 @@ Minnesota has a reputation for being progressive, inclusive, and supportive of L
 
 - **Consistently Democratic**: Minnesota voted against Trump in the 2016, 2020, and 2024 presidential elections and holds the longest running streak of voting Democrats for president, having voted blue in every presidential election since 1972.
 
-## Strong Support for LGBT Rights
+## Strong History of Support for LGBT Rights
 
-- **History of LGBT Protections**: In 1993, Minnesota became the first state to outlaw discrimination based on sexual orientation and gender identity.
-- **Marriage Equality Pioneer**: The first legally recognized gay marriage in the U.S. took place in Minnesota.
+- In 1993, Minnesota became the first state to outlaw discrimination based on sexual orientation and gender identity.
+- The first legally recognized gay marriage in the U.S. took place in Minnesota.
 - **High Equality Rating**: Minnesota has earned a high equality rating from the [Movement Advancement Project](https://www.lgbtmap.org/equality-maps/profile_state/MN) for progressive policies, including:
   - **Ban on Conversion Therapy**: Minnesota has outlawed this harmful practice.
   - **“Shield” Laws**: These laws protect transgender individuals and their families, ensuring access to gender-affirming healthcare.
