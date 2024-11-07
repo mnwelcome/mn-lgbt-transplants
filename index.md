@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="/assets/custom.css">
-
 <img src="pride-flag.jpg" alt="Pride Flag" width="50%" />
 
 # Minnesota LGBT Transplant Resource Hub
