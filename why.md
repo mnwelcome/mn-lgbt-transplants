@@ -15,7 +15,7 @@ Minnesota has a reputation for being progressive, inclusive, and supportive of L
 - In 1993, Minnesota became the first state to outlaw discrimination based on sexual orientation and gender identity.
 - The first legally recognized gay marriage in the U.S. took place in Minnesota.
 - **High Equality Rating**: Minnesota has earned a high equality rating from the [Movement Advancement Project](https://www.lgbtmap.org/equality-maps/profile_state/MN) for progressive policies, including:
-  - **Ban on Conversion Therapy**: Minnesota has outlawed this harmful practice.
+  - A ban on conversion therapy 
   - **“Shield” Laws**: These laws protect transgender individuals and their families, ensuring access to gender-affirming healthcare.
 
 ## Recent Progressive Legislation
