@@ -21,24 +21,23 @@ Minnesota has a reputation for being progressive, inclusive, and supportive of L
 ## Recent Progressive Legislation
 
 Governor Tim Walz has passed many progressive bills in recent years. (And he will be continuing his term as governor!):
-- Protection for Abortion Rights
-- 12 Weeks of Paid Family and Medical Leave
-- Legalization of Marijuana
-- Free Public College Tuition for low- and middle-income families
-- New Child Tax Credit
-- Free School Meals for public school students
-- Driver’s Licenses for All residents, regardless of immigration status
-- Unionization Support with stronger protections for workers
-- Clean Energy Goals: Aiming for 100% carbon-free energy by 2040
+- Protection for abortion rights
+- 12 weeks of paid family and medical leave
+- Legalization of marijuana
+- Free public college tuition for low- and middle-income families
+- New child tax credit
+- Free school meals for public school students
+- Driver’s licenses for all residents, regardless of immigration status
+- Unionization support with stronger protections for workers
+- Clean energy goals: Aiming for 100% carbon-free energy by 2040
 
 ## High Quality of Life
 
 Minnesota is not only supportive of LGBT rights, but it’s also a highly rated state overall:
-- **Healthiest and Happiest**: Minnesota consistently ranks among the healthiest and happiest states in the country.
-- **Top-Ranked Healthcare**: Minnesota has the #1 ranked healthcare system in the U.S.
-- **Economic Opportunity**: Among the top five states for economic opportunity.
-- **Best State to Raise a Family**: Excellent education and resources for families.
-- **Active Lifestyle and Beautiful Parks**: Ranked highly for outdoor activities and park systems.
-- **Quality of Life**: Frequently recognized as one of the best states for homeownership, quality of life, and happiness.
+- Healthiest and Happiest: Minnesota consistently ranks among the healthiest and happiest states in the country.
+- Top-Ranked Healthcare: Minnesota has the #1 ranked healthcare system in the U.S.
+- Economic Opportunity: Among the top five states for economic opportunity. Frequently recognized as one of the best states for homeownership
+- Best State to Raise a Family: Excellent education and resources for families.
+- Active Lifestyle and Beautiful Parks: Ranked highly for outdoor activities and park systems.
 
 For more about Minnesota’s quality of life, visit [Explore Minnesota](https://www.exploreminnesota.com/live).
