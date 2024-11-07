@@ -20,7 +20,7 @@ Minnesota has a reputation for being progressive, inclusive, and supportive of L
 
 ## Recent Progressive Legislation
 
-Governor Tim Walz has passed several key progressive bills in recent years. (And he will be continuing his term as governor!):
+Governor Tim Walz has passed many progressive bills in recent years. (And he will be continuing his term as governor!):
 - Protection for Abortion Rights
 - 12 Weeks of Paid Family and Medical Leave
 - Legalization of Marijuana
