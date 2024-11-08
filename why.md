@@ -17,6 +17,7 @@ Minnesota has a reputation for being progressive, inclusive, and supportive of L
 - **High Equality Rating**: Minnesota has earned a high equality rating from the [Movement Advancement Project](https://www.lgbtmap.org/equality-maps/profile_state/MN) for progressive policies, including:
   - A ban on conversion therapy 
   - **“Shield” Laws**: These laws protect transgender individuals and their families, ensuring access to gender-affirming healthcare.
+- Rated as a safest state with strong protections on Erin in the Morning's [Anti Trans Risk Assessment Map](https://www.erininthemorning.com/p/final-pre-election-2024-anti-trans)
 
 ## Recent Progressive Legislation
 
