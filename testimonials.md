@@ -15,7 +15,7 @@ Are you a member of the LGBT+ community or close to someone in the LGBT communit
 
 > "My wife is originally from Minnesota. We lived in Oklahoma for several years, and the plan was that after college we would save up and move to the Twin Cities so that she could be close to her family.
 
-I'm a transgender woman, and I'm not very close with my family. My father disowned me, but my mother and sister are both accepting. Outside of them, I don't have anyone. Visiting my mother is both difficult and expensive no matter what distances are involved due to not being allowed back home.
+> I'm a transgender woman, and I'm not very close with my family. My father disowned me, but my mother and sister are both accepting. Outside of them, I don't have anyone. Visiting my mother is both difficult and expensive no matter what distances are involved due to not being allowed back home.
 
 We discovered that while the cost of living is significantly higher than that of Oklahoma, the wages are also significantly higher - and much more stable. Minnesota's economy doesn't experience the boom and bust cycles that Oklahoma's economy experiences with its defense and oil/gas industries.
 
