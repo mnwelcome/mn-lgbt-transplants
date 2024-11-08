@@ -30,6 +30,11 @@ To suggest a resource to add to this page please fill out the form at the bottom
 - [Eagles 34](https://www.eagles34.org/events-entertainment.html): dance events, including LGBT nights
 - [Grrrl Scout](grrrlscout.com): queer dance parties
 
+## Businesses
+- [A Bar of Their Own](https://www.abaroftheirown.com/): Twin Cities' first sports bar that exclusively shows women's sports
+- [LUSH](https://lushmpls.com/): drag shows and burlesque
+- [Black Hart](https://www.blackhartstp.com/): LGBTQ+ soccer bar with drag and burlesque shows 
+
 ## Facebook Groups
 - [Minnesota LGBTQ Activist Network](https://www.facebook.com/share/g/1XzHrEbDre/)
 - [MN Queer Crafting](https://www.facebook.com/share/g/15bJX57WHH/)
