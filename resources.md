@@ -14,6 +14,19 @@ To suggest a resource to add to this page please fill out the form at the bottom
 - [Help me Connect](https://helpmeconnect.web.health.state.mn.us/HelpMeConnect/) A navigator connecting expectant families, families with young children (birth – 8 years old) and those working with families to services in their local communities that support healthy child development and family well-being
 - [MinnesotaHelp](https://www.minnesotahelp.info/) Search for services that help older Minnesotans and people with disabilities. Can be filtered to LGBT friendly
 
+## General Resources
+- [Cost of Living Tool](https://mn.gov/deed/data/data-tools/col/)
+- [Homeownership Programs](https://www.mnhousing.gov/homeownership/buy-a-home---refinance.html)
+- [Key Industries](https://mn.gov/deed/joinusmn/key-industries/)
+- [Search for a job](https://www.careerforcemn.com/)
+- [Education](https://education.mn.gov/MDE/index.htm)
+- [Minnesota Real Estate](https://www.zillow.com/homes/minnesota_rb/)
+- [Arts and Culture](https://www.exploreminnesota.com/things-to-do/arts-culture#!grid~~~Featured~1~~)
+- [Food and Drink](https://www.exploreminnesota.com/things-to-do/food-drink#!grid~~~Featured~1~~)
+- [Trails and Parks](https://www.exploreminnesota.com/things-to-do/outdoor-adventures#!grid~~~Featured~1~~)
+- [Healthcare](https://www.exploreminnesota.com/minnesota-healthcare-guide)
+- [Accessability](https://www.exploreminnesota.com/minnesota-accessibility)
+
 ## Social Groups
 - [Grrrl Scout](grrrlscout.com)
 - [Minnesota LGBTQ Activist Network](https://www.facebook.com/share/g/1XzHrEbDre/)
