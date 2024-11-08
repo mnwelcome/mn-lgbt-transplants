@@ -14,15 +14,15 @@ Are you a member of the LGBT+ community or close to someone in the LGBT communit
 ### From Oklahoma to the Twin Cities suburbs
 
 > "My wife is originally from Minnesota. We lived in Oklahoma for several years, and the plan was that after college we would save up and move to the Twin Cities so that she could be close to her family.
-
+>
 > I'm a transgender woman, and I'm not very close with my family. My father disowned me, but my mother and sister are both accepting. Outside of them, I don't have anyone. Visiting my mother is both difficult and expensive no matter what distances are involved due to not being allowed back home.
-
-We discovered that while the cost of living is significantly higher than that of Oklahoma, the wages are also significantly higher - and much more stable. Minnesota's economy doesn't experience the boom and bust cycles that Oklahoma's economy experiences with its defense and oil/gas industries.
-
-Finding friends was difficult at first, but we eventually discovered a wonderful friends group through one of the many dog parks that are scattered across the Twin Cities. We found many other transplants from other states, as well as life long Minnesota residents who took us in.
-
-Minnesota is cold, but you adapt quickly. Each season is beautiful for its own reasons, and the opportunities are endless. In every measurable way, it is a better place to live than Oklahoma. While I dearly miss Oklahoma and the people I knew there, I don't see myself ever moving back. I did visit recently after several years and the contrast was stark.
-
-I have never prospered more in my life than in my years living in Minnesota. Here, I got the gender affirming care that I needed, was able to easily change my name and gender marker on my driver's license, and continued a successful career that has allowed me to afford a modest home. I want for nothing here."
+>
+> We discovered that while the cost of living is significantly higher than that of Oklahoma, the wages are also significantly higher - and much more stable. Minnesota's economy doesn't experience the boom and bust cycles that Oklahoma's economy experiences with its defense and oil/gas industries.
+>
+> Finding friends was difficult at first, but we eventually discovered a wonderful friends group through one of the many dog parks that are scattered across the Twin Cities. We found many other transplants from other states, as well as life long Minnesota residents who took us in.
+>
+> Minnesota is cold, but you adapt quickly. Each season is beautiful for its own reasons, and the opportunities are endless. In every measurable way, it is a better place to live than Oklahoma. While I dearly miss Oklahoma and the people I knew there, I don't see myself ever moving back. I did visit recently after several years and the contrast was stark.
+>
+> I have never prospered more in my life than in my years living in Minnesota. Here, I got the gender affirming care that I needed, was able to easily change my name and gender marker on my driver's license, and continued a successful career that has allowed me to afford a modest home. I want for nothing here."
 
 ---
