@@ -28,6 +28,7 @@ To suggest a resource to add to this page please fill out the form at the bottom
 - [Accessability](https://www.exploreminnesota.com/minnesota-accessibility)
 
 ## Social Groups
+- [Eagles 34](https://www.eagles34.org/events-entertainment.html): dance events, including LGBT nights
 - [Grrrl Scout](grrrlscout.com)
 - [Minnesota LGBTQ Activist Network](https://www.facebook.com/share/g/1XzHrEbDre/)
 - [MN Queer Crafting](https://www.facebook.com/share/g/15bJX57WHH/)
