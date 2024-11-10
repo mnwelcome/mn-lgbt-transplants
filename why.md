@@ -4,7 +4,7 @@
 
 # Why Consider Relocating to Minnesota?
 
-Minnesota has a reputation for being progressive, inclusive, and supportive of LGBT rights. Here’s why Minnesota might be an ideal place for you and your family:
+Minnesota has a reputation for being progressive, inclusive, and supportive of LGBT rights. Here’s why the north star state might be an ideal place for you and your family:
 
 ## A Progressive Voting History
 
@@ -14,14 +14,21 @@ Minnesota has a reputation for being progressive, inclusive, and supportive of L
 
 - In 1993, Minnesota became the first state to outlaw discrimination based on sexual orientation and gender identity.
 - The first legally recognized gay marriage in the U.S. took place in Minnesota.
+- Today, the Twin Cities Pride festival is the largest free Pride festival in the world, and the second largest festival in Minnesota
 - **High Equality Rating**: Minnesota has earned a high equality rating from the [Movement Advancement Project](https://www.lgbtmap.org/equality-maps/profile_state/MN) for progressive policies, including:
   - A ban on conversion therapy 
   - **“Shield” Laws**: These laws protect transgender individuals and their families, ensuring access to gender-affirming healthcare.
 - Rated as a safest state with strong protections on Erin in the Morning's [Anti Trans Risk Assessment Map](https://www.erininthemorning.com/p/final-pre-election-2024-anti-trans)
 
+## Tim Walz
+
+Tim Walz will continue his term as governor. In his first post-election [remarks](https://www.startribune.com/walz-back-in-minnesota-gives-conciliatory-speech-pledges-to-listen-more-defend-states-way-of-life/601178106), he promises to fight for freedom and progress in Minnesota. 
+
+> "Minnesota always has and always will be there to provide shelter from the storm...I still believe with all my heart, America can be a place where no child is left hungry, no community is left behind and no one gets told they don’t belong. And the reason I believe it so strongly is I've seen it with my own eyes, because it's happened right here in Minnesota. And because of our example, millions of Americans believe in it too."
+
 ## Recent Progressive Legislation
 
-Governor Tim Walz has passed many progressive bills in recent years. (And he will be continuing his term as governor!):
+The legislature has passed many progressive bills in recent years. 
 - Protection for abortion rights
 - 12 weeks of paid family and medical leave
 - Legalization of marijuana
