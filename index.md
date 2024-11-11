@@ -23,7 +23,7 @@
 
 <div class="banner">
     <h1>Welcome to the Minnesota LGBT Transplant Resource Hub</h1>
-    <img src="https://github.com/your-username/your-repo-name/raw/main/assets/banner-image.jpg" alt="Banner Image">
+    <img src="https://github.com/mnwelcome/mn-lgbt-transplants/raw/main/assets/Twin Cities Queer Transplants.png" alt="Banner Image">
 </div>
 
 <img src="pride-flag.jpg" alt="Pride Flag" width="50%" />
