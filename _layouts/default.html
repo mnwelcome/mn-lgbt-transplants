@@ -1,7 +1,22 @@
-<header>
-    <div class="container">
-        <h1>{{ site.title }}</h1>
-        <p>{{ site.description }}</p>
-    </div>
-</header>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+    <!-- Any additional head content like stylesheets or scripts -->
+</head>
+<body>
+    <header>
+        <div class="banner" style="background-color: rgb(150, 200, 250); height: 200px; position: relative;">
+            <h1 style="position: absolute; top: 50%; left: 20px; transform: translateY(-50%); color: white;">Minnesota LGBT Transplant Resource Hub</h1>
+            <img src="banner.png" alt="Banner Image" style="position: absolute; right: 20px; top: 50%; transform: translateY(-50%); max-height: 80%;">
+        </div>
+    </header>
+    <main>
+        {{ content }}
+    </main>
+</body>
+</html>
 
