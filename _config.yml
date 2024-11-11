@@ -4,3 +4,6 @@ theme: jekyll-theme-cayman
 
 github:
   is_project_page: false
+
+# Add this to enable custom styles
+markdown: kramdown
