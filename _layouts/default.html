@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&family=Prompt:wght@400;700&display=swap">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <img src="header.png" alt="Header Image" class="header-image">
+    <a href="https://www.instagram.com/tctransplants" target="_blank" style="position: absolute; top: 10px; right: 10px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width: 24px; height: 24px;">
+    </a>
+  </header>
+  
+  <!-- Navigation bar -->
+  <nav class="site-navigation">
+    <a href="{{ "/" | relative_url }}">Home</a>
+    <a href="{{ "/why.html" | relative_url }}">Why Minnesota</a>
+    <a href="{{ "/resources.html" | relative_url }}">Resources</a>
+    <a href="{{ "/testimonials.html" | relative_url }}">Testimonials</a>
+    <a href="{{ "/volunteer.html" | relative_url }}">Donate/Volunteer</a>
+  </nav>
+  <hr>
+  
+  <div class="content-wrapper">
+    <main>
+      {{ content }}
+    </main>
+  </div>
+  <footer class="site-footer">
+    <img src="footer.png" alt="Footer Image" class="footer-image">
+  </footer>
+</body>
+</html>
