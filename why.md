@@ -1,10 +1,15 @@
-[Home](/index.md) | [Why Minnesota](/why.md) | [Resources](/resources.md) | [Testimonials](/testimonials.md) | [Volunteer](/volunteer.md)
-
+---
+layout: default
+title: "Why Minnesota"
 ---
 
 # Why Consider Relocating to Minnesota?
 
-Minnesota has a reputation for being progressive, inclusive, and supportive of LGBT rights. Here’s why the north star state might be an ideal place for you and your family:
+Transplanting for your own or your family’s safety is one of the hardest decisions you’ll make in your life. So many of us find ourselves bogged down in “can’ts” - I can’t leave my friends, I can’t leave my family, I can’t adjust to life in a new city. It’s a terrifying situation to be in. 
+
+But you *can*. You *can* get out. You *can* find new community. You *can* be happy.
+
+Minnesota has a reputation for being progressive, inclusive, and supportive of LGBT rights. The north star state might be an ideal place for you and your family.
 
 ## A Progressive Voting History
 
@@ -49,3 +54,7 @@ Minnesota is not only supportive of LGBT rights, but it’s also a highly rated 
 - Active Lifestyle and Beautiful Parks: Ranked highly for outdoor activities and park systems.
 
 For more about Minnesota’s quality of life, visit [Explore Minnesota](https://www.exploreminnesota.com/live).
+
+## Convinced?
+
+If you want to take the next step toward relocating, get started with our [Moving Guide](https://docs.google.com/document/d/1biXqx11VQIamz8MYkEZXsizZKs3yXKqIsXjH5AOmrIU/edit?usp=sharing)
