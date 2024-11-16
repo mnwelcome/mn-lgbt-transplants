@@ -1,0 +1,122 @@
+/* Apply Arvo to all headings */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Arvo', serif;
+    color: #00A56A;
+}
+
+/* Apply Prompt to all other text */
+body {
+    font-family: 'Prompt', sans-serif;
+}
+
+/* Remove default margins and padding from body */
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+/* Make the header background color go to the top of the screen */
+.site-header {
+  background-color: #F3EDD7; /* Replace with your desired color */
+  padding: 110px 110px; /* Adjust padding as needed */
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Style for the header image */
+.header-image {
+  max-width: 550px; /* Adjust width as needed */
+  height: auto;
+}
+
+/* Adjust the styling for the title text */
+.site-title {
+  margin: 0; /* Remove any default margin on h1 */
+}
+
+/* Main content wrapper with Cayman-like margin */
+.content-wrapper {
+  max-width: 800px; /* Set a maximum width similar to Cayman */
+  margin: 40px auto; /* Center content with margin on top and bottom */
+  padding: 0 20px; /* Add horizontal padding */
+}
+
+/* Footer styling */
+.site-footer {
+  text-align: center;
+  padding: 0 20px; /* Optional: adds space around the footer */
+}
+
+/* Footer image styling */
+.footer-image {
+  max-width: 100%; /* Makes the image responsive */
+  height: auto;
+}
+
+/* Make links stay blue even after being clicked */
+a {
+  color: #007bff; /* Set this to your preferred blue color */
+  text-decoration: none;
+}
+
+a:visited {
+  color: #007bff; /* Match this to the regular link color */
+}
+
+a:hover {
+  color: #0056b3; /* Optional: A slightly darker blue on hover */
+}
+
+a:active {
+  color: #004494; /* Optional: Even darker for active state */
+}
+
+/* Navigation styling */
+.site-navigation {
+  text-align: center;
+  background-color: #00A56A; /* navigation bar color */
+  padding: 10px 0;
+  font-family: 'Prompt', sans-serif;
+}
+
+.site-navigation a {
+  color: #FFFFFF; /* Link color */
+  text-decoration: none;
+  margin: 0 15px; /* Space between links */
+  font-weight: bold;
+}
+
+.site-navigation a:hover {
+  color: #FFD700; /* Color when hovering over a link */
+  text-decoration: underline;
+}
+
+blockquote {
+  border-left: 4px solid #d3d3d3; /* Light gray border */
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  background-color: #f9f9f9; /* Very light gray background */
+  color: #333; /* Dark gray text */
+  border-radius: 4px; /* Subtle rounded corners */
+}
+
+a.instagram-icon {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    display: inline-block;
+}
+
+a.instagram-icon img {
+    width: 24px;
+    height: 24px;
+    transition: transform 0.2s;
+}
+
+a.instagram-icon img:hover {
+    transform: scale(1.1);
+}
+
+
