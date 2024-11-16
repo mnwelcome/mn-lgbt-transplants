@@ -1,19 +1,30 @@
-[Home](/index.md) | [Why Minnesota](/why.md) | [Resources](/resources.md) | [Testimonials](/testimonials.md) | [Volunteer](/volunteer.md)
+---
+title: "Resources"
+layout: default
+---
 
 # Community and Support Resources
 
-To suggest a resource to add to this page please fill out the form at the bottom of the page.
+To suggest a resource to add to this page please fill out the form at the bottom.
+
+## Articles
+- [Well, Shit](https://stainedglasswoman.substack.com/p/well-shit): Some practical tips to get ready for what's coming
+- [Erin in the Morning](https://www.erininthemorning.com/p/steps-for-transgender-people-preparing): Steps For Transgender People Preparing For Federal Crackdowns Under Trump
+- [Pink Unicorn](https://transresistancenetwork.wordpress.com/wp-content/uploads/2024/11/pink-unicorn-clean.pdf) Guide to organizing for 2STGE+ survival
+- [Truthout](https://truthout.org/articles/our-best-option-for-defending-ourselves-from-trumps-second-term-is-each-other/?fbclid=IwZXh0bgNhZW0CMTEAAR2jz_5cqSaflQOOnveFIACWwgE0MWqN8GidxOOFFgY9Tg0-JzGcpeZyJWY_aem_L6ICjGU14NxLH-kp6PdPDQ) Our Best Option for Defending Ourselves From Trump’s Second Term Is Each Other
+
+## TC Transplants Official Resources
+
+- [Moving Tips and Tricks](https://docs.google.com/document/d/1biXqx11VQIamz8MYkEZXsizZKs3yXKqIsXjH5AOmrIU/edit?usp=sharing)
+- [Resource Packet](https://drive.google.com/file/d/18a1NbsyONkDhmY0jguD4ZVmXKV46sDbt/view?usp=sharing)
 
 ## Local Organizations
 - Local resources from [NAMI](https://namimn.org/education-and-public-awareness/nami-resources-lgbtq-community/)
 - [MTIRIN](https://mntirnetwork.org/): MN Trans and Intersex Resource Network, assists trans intersex folks coming to MN
 - [Trans Resource Directory](https://docs.google.com/document/d/1-1Z7KYtcjrxwvMOy3Luwt6ICnCpt5sgNTrYGPZtW_yk/edit?usp=sharing): list of trans-friendly community resources/overall resources for Minnesota
 - [Twin Cities Pride ](https://tcpride.org/community-resources/)
-  - Includes health, support and social groups, youth, and housing services. 
-
-## Databases
-- [Help me Connect](https://helpmeconnect.web.health.state.mn.us/HelpMeConnect/) A navigator connecting expectant families, families with young children (birth – 8 years old) and those working with families to services in their local communities that support healthy child development and family well-being
-- [MinnesotaHelp](https://www.minnesotahelp.info/) Search for services that help older Minnesotans and people with disabilities. Can be filtered to LGBT friendly
+  - Includes health, support and social groups, youth, and housing services.
+- [mntranshousing](https://linktr.ee/mntranshousing): Housing+clinics+ community+support groups and more for trans ppl moving to MN
 
 ## General Resources, not LGBT Specific
 - [Cost of Living Tool](https://mn.gov/deed/data/data-tools/col/)
@@ -28,6 +39,8 @@ To suggest a resource to add to this page please fill out the form at the bottom
 - [Trails and Parks](https://www.exploreminnesota.com/things-to-do/outdoor-adventures#!grid~~~Featured~1~~)
 - [Healthcare](https://www.exploreminnesota.com/minnesota-healthcare-guide)
 - [Accessability](https://www.exploreminnesota.com/minnesota-accessibility)
+- [Help me Connect](https://helpmeconnect.web.health.state.mn.us/HelpMeConnect/) A navigator connecting expectant families, families with young children (birth – 8 years old) and those working with families to services in their local communities that support healthy child development and family well-being
+- [MinnesotaHelp](https://www.minnesotahelp.info/) Search for services that help older Minnesotans and people with disabilities. Can be filtered to LGBT friendly
 
 ## Outside the Twin Cities
 - [MedCity REFUGE](https://medcityrefuge.org/): a nonprofit which supports those coming to Rochester, MN for gender-affirming care
@@ -35,7 +48,6 @@ To suggest a resource to add to this page please fill out the form at the bottom
 ## Social Groups and Events
 - [Eagles 34](https://www.eagles34.org/events-entertainment.html): dance events, including LGBT nights
 - [Grrrl Scout](grrrlscout.com): queer dance parties
-- [Twin Cities Queer Transplants](https://www.instagram.com/tctransplants): connecting queer newcomers and locals in the Twin Cities
 
 ## Businesses
 - [A Bar of Their Own](https://www.abaroftheirown.com/): Twin Cities' first sports bar that exclusively shows women's sports
@@ -51,7 +63,7 @@ To suggest a resource to add to this page please fill out the form at the bottom
 ### Facebook Groups
 - [Minnesota LGBTQ Activist Network](https://www.facebook.com/share/g/1XzHrEbDre/)
 - [MN Queer Crafting](https://www.facebook.com/share/g/15bJX57WHH/)
-- [Queer Housing Mpls/St. Paul](https://www.facebook.com/share/g/1AiwX86ih3/?mibextid=K35XfP))  
+- [Queer Housing Mpls/St. Paul](https://www.facebook.com/share/g/1AiwX86ih3/?mibextid=K35XfP)  
 - [Queer in Como](https://www.facebook.com/share/g/1XUauRus1n/)
 - [TC 30+ Queer Book Club](https://www.facebook.com/share/g/1Q4SMwMQXn/)
 - [Twin Cities Bi+ Friends](https://www.facebook.com/share/g/15cJqdcmQk/)
